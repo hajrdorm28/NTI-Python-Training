@@ -1,0 +1,7 @@
+2026-09-07 04:52:48 | SALE | Harry Potter | qty=2 | total=0.00 EGP | free_win=True
+2026-09-07 04:52:59 | SALE | Harry Potter | qty=1 | total=300.00 EGP | free_win=False
+2026-09-07 05:01:58 | SALE | The Hobbit | qty=1 | total=380.00 EGP | free_win=False
+2026-09-07 05:02:24 | SALE | Harry Potter | qty=2 | total=840.00 EGP | free_win=False
+2026-09-07 05:16:39 | SALE | Atomic Habits | qty=1 | total=350.00 EGP | free_win=False
+2026-09-07 05:19:21 | SALE | Atomic Habits | qty=1 | total=350.00 EGP | free_win=False
+2026-09-08 22:32:12 | SALE | Atomic Habits | qty=1 | total=350.00 EGP | free_win=False
